@@ -1,1 +1,0 @@
-# DLproject_PredictingSecondaryProteinStructure-
