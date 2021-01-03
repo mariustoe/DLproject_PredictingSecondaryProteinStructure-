@@ -117,7 +117,7 @@ def make_vae_plots(vae, x, y, outputs, training_data, CASP12_data,TS115_data,CB5
     #plt.close(fig)
     #clear_output(wait=True)
 
-    plt.savefig("loss_imgs.png")
+    plt.show()
 
 
     #
