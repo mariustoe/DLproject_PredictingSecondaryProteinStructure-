@@ -1,4 +1,4 @@
-##Target Embedding Autoencoder
+Target Embedding Autoencoder
 
 This repository contains two notebooks to predict secondary protein structures - one notebook computing the main results of the Target Embedding Autoencoder and a notebook containing a standard CNN for comparison to the TEA.
 
